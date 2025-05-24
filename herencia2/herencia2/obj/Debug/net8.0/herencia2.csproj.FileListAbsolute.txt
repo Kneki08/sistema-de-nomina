@@ -1,0 +1,14 @@
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\bin\Debug\net8.0\herencia2.exe
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\bin\Debug\net8.0\herencia2.deps.json
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\bin\Debug\net8.0\herencia2.runtimeconfig.json
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\bin\Debug\net8.0\herencia2.dll
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\bin\Debug\net8.0\herencia2.pdb
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.AssemblyInfoInputs.cache
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.AssemblyInfo.cs
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.csproj.CoreCompileInputs.cache
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.dll
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\refint\herencia2.dll
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.pdb
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\herencia2.genruntimeconfig.cache
+C:\Users\REYNALDO\OneDrive\Escritorio\POOC#\herencia\herencia2\herencia2\obj\Debug\net8.0\ref\herencia2.dll
